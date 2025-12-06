@@ -427,5 +427,22 @@ banana-slides/
 
 MIT
 
+## 📈 项目统计
+
+<a href="https://www.star-history.com/#Anionex/banana-slides&type=date&legend=top-left">
+
+ <picture>
+
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Anionex/banana-slides&type=date&theme=dark&legend=top-left" />
+
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Anionex/banana-slides&type=date&legend=top-left" />
+
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Anionex/banana-slides&type=date&legend=top-left" />
+
+ </picture>
+
+</a>
+
+<br>
 
 
